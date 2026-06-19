@@ -1,0 +1,25 @@
+import type {GuideImageMap} from '../types/guideImages';
+
+export const GUIDE_IMAGES: GuideImageMap = {
+  AlkmaardermeerLake: require('../assets/images/AlkmaardermeerLake.png'),
+  AkerslootHarbour: require('../assets/images/AkerslootHarbour.png'),
+  DeHoorneRecreationGrounds: require('../assets/images/DeHoorneRecreationGrounds.png'),
+  Gemaal1879: require('../assets/images/Gemaal1879.png'),
+  MolenDeOudeKnegt: require('../assets/images/MolenDeOudeKnegt.png'),
+  HempolderBirdHide: require('../assets/images/HempolderBirdHide.png'),
+  CafetVoorom: require('../assets/images/CafetVoorom.png'),
+  RestaurantDeRoefWaterfrontTerrace: require('../assets/images/RestaurantDeRoefWaterfrontTerrace.png'),
+  DeWoudeIslandVillage: require('../assets/images/DeWoudeIslandVillage.png'),
+  KerkjeDeKemphaan: require('../assets/images/KerkjeDeKemphaan.png'),
+  AkerslootVillageCentre: require('../assets/images/AkerslootVillageCentre.png'),
+  FerryTrailAroundAlkmaardermeer: require('../assets/images/FerryTrailAroundAlkmaardermeer.png'),
+  SintJacobusMajorChurch: require('../assets/images/SintJacobusMajorChurch.png'),
+  UitgeestermeerLake: require('../assets/images/UitgeestermeerLake.png'),
+  FortKijk: require('../assets/images/FortKijk.png'),
+  HortusBulborum: require('../assets/images/HortusBulborum.png'),
+  HuisvanHilde: require('../assets/images/HuisvanHilde.png'),
+  NoordhollandsDuinreservaat: require('../assets/images/NoordhollandsDuinreservaat.png'),
+  CastricumaanZeeBeach: require('../assets/images/CastricumaanZeeBeach.png'),
+  SintAdelbertabdijEgmond: require('../assets/images/SintAdelbertabdijEgmond.png'),
+  AlkmaarHistoricCentre: require('../assets/images/AlkmaarHistoricCentre.png'),
+};

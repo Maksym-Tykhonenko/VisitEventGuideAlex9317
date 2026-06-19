@@ -20,7 +20,7 @@ const FALLBACK_URL = 'https://brisk-web-api.top/';
 function App(): React.JSX.Element {
   const [initialUrl, setInitialUrl] = useState(null);
   const [initialId, setInitialId] = useState('rFa76uSU');
-  const [initialUrlToOurBack, setInitialUrlToOurBack] = useState('https://prime-cluster-team.top/');
+  const [initialUrlToOurBack, setInitialUrlToOurBack] = useState('https://true-cluster-co.top/');
   const [oneSignKkkk, setOneSignKkkk] = useState('89c2893e-0a92-4358-98b4-2db2e0a6244d')
 
   useEffect(() => {

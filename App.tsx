@@ -4,6 +4,14 @@ import {SafeAreaProvider} from 'react-native-safe-area-context';
 import {AppShell} from './src/navigation/AppShell';
 import {NavigationProvider} from './src/navigation/NavigationContext';
 
+import {
+  getRemoteConfig,
+  setDefaults,
+  setConfigSettings,
+  fetchAndActivate,
+  getValue,
+} from '@react-native-firebase/remote-config';
+import { getApp } from '@react-native-firebase/app';
 import { LoaderScreen } from './src/screens/LoaderScreen';
 import { LogLevel, OneSignal } from 'react-native-onesignal';
 
